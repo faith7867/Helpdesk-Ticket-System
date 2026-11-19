@@ -1,6 +1,6 @@
 student=Imaan
-T015;account;Cannot access student email
-T016;network;Wi-Fi keeps disconnecting
-T017;software;Unable to open lecture slides
+T019;account;Cannot reset password
+T020;invalidcategory;Test invalid category
+T021;software;Application keeps crashing
 INVALID LINE
-T018;other;Requesting general IT assistance
+T022;network;Internet connection unavailable
