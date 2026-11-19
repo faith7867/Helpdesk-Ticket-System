@@ -1,0 +1,5 @@
+student=Imaan
+T011;account;Cannot access student email
+T012;network;Wi-Fi keeps disconnecting
+T013;software;Unable to open lecture slides
+T014;other;Requesting general IT assistance
